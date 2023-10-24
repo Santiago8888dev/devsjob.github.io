@@ -52,7 +52,7 @@
 
         <div class="mt-4">
                 <x-primary-button class="w-full justify-center">
-                {{ Registrar }}
+                {{ __('Registrar') }}
                 </x-primary-button>
         </div>
 
